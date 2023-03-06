@@ -1,3 +1,3 @@
 # python-emailer
 
-Use this function to send emails with attachements in Python
+Use these functions to send emails with or without attachements in Python
